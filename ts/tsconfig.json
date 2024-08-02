@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2016", // Or later, such as "es2017", "es2018", etc.
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
