@@ -1,0 +1,33 @@
+
+# 2024-09-21 01:20:11.074600
++how to setup ts live server for java and c++ along with auto complation plugins
+
+# 2024-09-21 01:20:28.517848
++/run code --install-extension vscjava.vscode-java-pack
+
+# 2024-09-21 01:20:30.625694
++/run code --install-extension vmware.vscode-spring-boot
+
+# 2024-09-21 01:22:37.245342
++/run code --install-extension ms-vscode.cpptools
+
+# 2024-09-21 01:22:38.464958
++/run code --install-extension danielpinto8zz6.c-cpp-compile-run
+
+# 2024-09-21 01:22:43.227087
++/run code --install-extension ritwickdey.LiveServer
+
+# 2024-09-21 01:31:20.261680
++/run sudo apt-get update
+
+# 2024-09-21 01:31:25.797868
++/run sudo apt-get install build-essential
+
+# 2024-09-21 01:31:48.381574
++/run touch HelloWorld.java
+
+# 2024-09-21 01:31:53.102137
++/run touch hello.cpp
+
+# 2024-09-21 01:31:59.837214
++/run touch index.html
