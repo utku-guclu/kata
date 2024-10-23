@@ -17,3 +17,7 @@ export function canSum(
   memo[targetSum] = false;
   return false;
 }
+
+// time and space complexity
+// time: O(n^m * m)
+// space: O(m^2)
